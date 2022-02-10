@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	s := "tattarrattat"
+	s := "babad"
 	fmt.Println(p5.LongestPalindrome(s))
 }
